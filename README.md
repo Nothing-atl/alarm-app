@@ -38,7 +38,7 @@ A **fully customizable alarm app** built with SwiftUI. It supports **scheduling 
 ## **🔧 Installation**
 ### **📲 Requirements**
 - **Xcode 15+**  
-- **iOS 16+**  trying to make it 11+
+- **iOS 16+**  trying to make it 13+
 - **Swift 5.7+**  
 
 ### **🚀 Steps to Run**
